@@ -197,11 +197,12 @@ header nav ul li a:hover {
 /* REACH OUT STYLES START */
 #reach-out {
   /* margin-top: 5px; */
-  background: #75BFB2;
+  background: #3c3c3c
+  ;
 }
 
 #reach-out h2 {
-  color: #0E5259;
+  color: #FFFFFF;
 }
 
 .contact h2 {
@@ -312,7 +313,7 @@ header nav ul li a:hover {
 /*Start Jobs section*/
 
 .jobs {
-  background: #8c8c8c;
+  background: #3c3c3c;
 
 }
 
@@ -593,7 +594,7 @@ footer a:hover {
 /* extra titles stylings */
 .section-title {
   font-size: 48px;
-  color: #000000;
+  color: #FFFFFF;
   border-bottom: 3px solid;
   padding-bottom: 20px;
   text-align: center;

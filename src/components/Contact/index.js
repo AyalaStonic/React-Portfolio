@@ -53,25 +53,22 @@ function Contact() {
   return (
     <section id="reach-out" className="contact">
       <div className="flex-row">
-        <h2 className="section-title secondary-border">Reach Out</h2>
+        <h2 className="section-title secondary-border">Find me</h2>
       </div>
 
       <div className="contact-info">
         <div>
-          <h3>Hello {userName}</h3>
-          <p>Want to get into contact?</p>
+          <h3>Hey {userName}</h3>
+          <p>Would you like to contactme?</p>
           <address>
-            San Francisco, CA <br />
-            P: <a href="tel:951.310.5642">951.310.5642</a>
+            Orlando, FL <br />
+            P: <a href="tel:321.512.2643">321.512.2643</a>
             <br />
             E:{" "}
-            <a href="mailto://martinlindsey87@yahoo.com">
-              martinlindsey87@yahoo.com
+            <a href="Ayaladuvan876@gmail.com">
+              Ayaladuvan876@gmail
             </a>
           </address>
-          <p>
-            <strong>I'd love to hear your feedback!</strong>
-          </p>
         </div>
 
         {/* contact form section  */}
