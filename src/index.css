@@ -52,7 +52,7 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-image: url("../src/assets/cover/star-wars-backgrounds-06.jpg");
+  background-image: url("../src/assets/cover/pexels-elÄ«na-arÄja-3377405.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -107,7 +107,7 @@ header nav ul li a {
 
 header nav ul li a:hover {
   background: #0E5259;
-  color: #000000;
+  color: #;
   border-radius: 15px;
   text-shadow: none;
   /*    transition: .5s ease-in;*/
@@ -116,7 +116,7 @@ header nav ul li a:hover {
 
 /* Hero Style Start */
 .hero {
-  background-image: url("../src/assets/cover/star-wars-backgrounds-06.jpg");
+  background-image: url("../src/assets/cover/pexels-elÄ«na-arÄja-3377405.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
