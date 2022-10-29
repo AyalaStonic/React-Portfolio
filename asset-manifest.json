@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.11927237.css",
+    "main.css": "/React-Portfolio/static/css/main.84f1ce3a.css",
     "main.js": "/React-Portfolio/static/js/main.739015e9.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/Sweet-Pea-Flowers.png": "/React-Portfolio/static/media/Sweet-Pea-Flowers.0fa379e4c9d6c155f012.png",
@@ -14,12 +14,12 @@
     "static/media/Lindsey_Martin_Resume_2022.pdf": "/React-Portfolio/static/media/Lindsey_Martin_Resume_2022.db0ce36e3cee5fb8ffec.pdf",
     "static/media/NoteTaker.png": "/React-Portfolio/static/media/NoteTaker.a02f46f0add6517fa071.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.11927237.css.map": "/React-Portfolio/static/css/main.11927237.css.map",
+    "main.84f1ce3a.css.map": "/React-Portfolio/static/css/main.84f1ce3a.css.map",
     "main.739015e9.js.map": "/React-Portfolio/static/js/main.739015e9.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11927237.css",
+    "static/css/main.84f1ce3a.css",
     "static/js/main.739015e9.js"
   ]
 }
