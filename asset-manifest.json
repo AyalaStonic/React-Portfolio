@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.8298cc12.css",
+    "main.css": "/React-Portfolio/static/css/main.335bbadb.css",
     "main.js": "/React-Portfolio/static/js/main.901e314d.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/Sweet-Pea-Flowers.png": "/React-Portfolio/static/media/Sweet-Pea-Flowers.0fa379e4c9d6c155f012.png",
     "static/media/HomeBrew.png": "/React-Portfolio/static/media/HomeBrew.9a3065b69b6b418dc2a7.png",
+    "static/media/pexels-elÄ«na-arÄja-3377405.jpg": "/React-Portfolio/static/media/pexels-elÄ«na-arÄja-3377405.396c9ca64cd32cbe99e5.jpg",
     "static/media/Twilight_Ristorante.png": "/React-Portfolio/static/media/Twilight_Ristorante.f5b976e32680da017119.png",
     "static/media/Summer_Punch.png": "/React-Portfolio/static/media/Summer_Punch.c7da771fb6c126146be3.png",
     "static/media/IMG_6139.jpeg": "/React-Portfolio/static/media/IMG_6139.1f96361525202b4557f3.jpeg",
@@ -12,14 +13,13 @@
     "static/media/Sphere.png": "/React-Portfolio/static/media/Sphere.ac26b22491da9c538736.png",
     "static/media/Lindsey_Martin_Resume_2022.pdf": "/React-Portfolio/static/media/Lindsey_Martin_Resume_2022.db0ce36e3cee5fb8ffec.pdf",
     "static/media/NoteTaker.png": "/React-Portfolio/static/media/NoteTaker.a02f46f0add6517fa071.png",
-    "static/media/star-wars-backgrounds-06.jpg": "/React-Portfolio/static/media/star-wars-backgrounds-06.2c54f6b2d8d4e1e7a4e4.jpg",
     "index.html": "/React-Portfolio/index.html",
-    "main.8298cc12.css.map": "/React-Portfolio/static/css/main.8298cc12.css.map",
+    "main.335bbadb.css.map": "/React-Portfolio/static/css/main.335bbadb.css.map",
     "main.901e314d.js.map": "/React-Portfolio/static/js/main.901e314d.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8298cc12.css",
+    "static/css/main.335bbadb.css",
     "static/js/main.901e314d.js"
   ]
 }
