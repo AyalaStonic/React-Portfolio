@@ -14,18 +14,16 @@ function About() {
             <img src={profileImage} style={{ width: "100%" }} alt="profile" />
           </div>
           <p>
-            Hello, my name is Duvan Ayala. I am currently 31 living in Los
-            Angeles. I have a B.A. in Psychology with a concentration in
-            Neuroscience from the University of San Francisco, and graduated in
-            2016. I moved up to San Francisco for college and ended up staying
-            in the city after college. I was living in the city really until
-            COVID, but when the city shut down I started going back and forth
-            between Los Angeles and San Francisco. My family is in Southern
-            California, so it was nice to be able to spend time with them. When
-            I'm not working, I like to spend my time being active. I like going
-            for long walks with my dogs as well as small hikes with friends. I
-            love to exercise and try to do some form of exercise daily that can
-            range from pilates, weight training, yoga, or a hot HIIT class.
+            Hello, my name is Duvan Ayala. Hi, My name is Duvan Ayala Stonic. 
+            I am currently living in Orlando, FL. I am 20 years old. 
+            I have had a deep passion and curiosity for Coding and programming,
+            also about computers, technology since I was little.
+           Years ago I starter creating, coding and styling some games from scratch,
+           using an app named GameMaker, and I used to use languages 
+            such as C++ and GML (GameMakerLanguage), years later I starter to work 
+            for Google Adsense, and my job was building up webpages from wordpress 
+            and add some ads. As a Full Stack Web developer My love for coding and learning more about this field 
+           is something I defenitly want to improve! CODING LIFE!
           </p>
         </div>
       </div>
