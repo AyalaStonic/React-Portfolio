@@ -18,24 +18,22 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="https://lemming97.github.io/Sweet-Pea-Flowers/">
+              <a href="https://xunvyre.github.io/project-sleepSpace/">
                 {" "}
                 <img
                   src={sphereImage}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt="Sweet-Pea-Flowers"
+                  alt="Sleep Space"
                 />
               </a>
             </div>
             <div className="job-text">
-              <h4>Sorcerer's Sphere</h4>
+              <h4>Sleep Space</h4>
               <p>
-                A MERN application that lets the user log in and create an
-                account. The user can receive daily affirmations. The user also
-                has the ability to ask questions to receive an answer. The user
-                also can receive a lucky number if they want. The user can
-                donate money to the website if they want to.
+                A Website which basically allows you to take a quick quiz and then it 
+                recommends you the best tips to be able to have a better sleeping! It was 
+                designed and built with HTML, CSS and Javascript.
               </p>
             </div>
           </div>
