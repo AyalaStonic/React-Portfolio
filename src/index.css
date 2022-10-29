@@ -226,11 +226,11 @@ header nav ul li a:hover {
 
 .contact-form input,
 .contact-form textarea {
-  border: 1px solid #024e76;
+  border: 1px solid #40484d;
   display: block;
   padding: 7px 15px;
   font-size: 16px;
-  color: #024e76;
+  color: #40484d;
   width: 100%;
   margin-bottom: 15px;
   margin-top: 5px;
@@ -249,8 +249,8 @@ header nav ul li a:hover {
 .contact-form button {
   width: 100%;
   border: none;
-  background: #F2E3D5;
-  color: #024e76;
+  background: ##c2c2c2;
+  color: #000000;
   text-align: center;
   padding: 15px 0;
   font-size: 25px;
@@ -414,7 +414,7 @@ header nav ul li a:hover {
 
 .download-intro p {
   line-height: 1.7;
-  color: #000000;
+  color: #0000;
   width: 95%;
   font-size: 30px;
   margin: 0 auto;
