@@ -59,14 +59,14 @@ function Contact() {
       <div className="contact-info">
         <div>
           <h3>Hey {userName}</h3>
-          <p>Would you like to contactme?</p>
+          <p>Would you like to contact me?</p>
           <address>
             Orlando, FL <br />
-            P: <a href="tel:321.512.2643">321.512.2643</a>
+            Phone: <a href="tel:321.512.2643">321.512.2643</a>
             <br />
-            E:{" "}
+            Email:{" "}
             <a href="Ayaladuvan876@gmail.com">
-              Ayaladuvan876@gmail
+              Ayaladuvan876@gmail.com
             </a>
           </address>
         </div>
