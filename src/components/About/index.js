@@ -14,7 +14,7 @@ function About() {
             <img src={profileImage} style={{ width: "100%" }} alt="profile" />
           </div>
           <p>
-            Hello, my name is Duvan Ayala. Hi, My name is Duvan Ayala Stonic. 
+            Hello, My name is Duvan Ayala Stonic. 
             I am currently living in Orlando, FL. I am 20 years old. 
             I have had a deep passion and curiosity for Coding and programming,
             also about computers, technology since I was little.
@@ -23,7 +23,9 @@ function About() {
             such as C++ and GML (GameMakerLanguage), years later I starter to work 
             for Google Adsense, and my job was building up webpages from wordpress 
             and add some ads. As a Full Stack Web developer My love for coding and learning more about this field 
-           is something I defenitly want to improve! CODING LIFE!
+           is something I defenitly want to improve!
+           <br />
+            CODING LIFE!
           </p>
         </div>
       </div>

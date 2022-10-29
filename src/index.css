@@ -107,7 +107,7 @@ header nav ul li a {
 
 header nav ul li a:hover {
   background: #0E5259;
-  color: #D5F2EA;
+  color: #000000;
   border-radius: 15px;
   text-shadow: none;
   /*    transition: .5s ease-in;*/
@@ -582,7 +582,7 @@ footer a:hover {
 }
 
 .logo:hover {
-  color: #328C83;
+  color: #000000;
   opacity: 0.5;
   transition: .5s ease;
 }
