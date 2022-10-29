@@ -143,13 +143,13 @@ header nav ul li a:hover {
 .hero-cta h2 {
   font-style: italic;
   font-size: 55px;
-  color: #0E5259;
+  color: #000000;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 .hero-cta p {
   font-size: 25px;
-  color: #328C83;
+  color: #000000;
 }
 
 /* hero-cta end */
