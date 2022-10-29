@@ -1,5 +1,5 @@
 import React from "react";
-import profileImage from "../../assets/large/Profile/Profile_Pic.png";
+import profileImage from "../../assets/large/Profile/IMG_6139.jpeg";
 function About() {
   return (
     <section id="about-me" className="my-5 intro">
@@ -14,7 +14,7 @@ function About() {
             <img src={profileImage} style={{ width: "100%" }} alt="profile" />
           </div>
           <p>
-            Hello, my name is Lindsey Martin. I am currently 31 living in Los
+            Hello, my name is Duvan Ayala. I am currently 31 living in Los
             Angeles. I have a B.A. in Psychology with a concentration in
             Neuroscience from the University of San Francisco, and graduated in
             2016. I moved up to San Francisco for college and ended up staying
