@@ -1,11 +1,8 @@
 import React from "react";
-import homeBrewImage from "../../assets/small/HomeBrew.png";
-import summerPunchImage from "../../assets/small/Summer_Punch.png";
-import weatherDashImage from "../../assets/small/Weather_Dash.png";
-import noteTakerImage from "../../assets/small/NoteTaker.png";
-import twilightImage from "../../assets/small/Twilight_Ristorante.png";
-import flowerImage from "../../assets/small/Sweet-Pea-Flowers.png";
-import sphereImage from "../../assets/small/Sphere.png";
+import noteTakerImage from "../../assets/small/StoryKeeper.png";
+import twilightImage from "../../assets/small/WeatherDashboard.png";
+import flowerImage from "../../assets/small/Horiseon.png";
+import sphereImage from "../../assets/small/screenshot.jpg";
 
 function Portfolio() {
   return (
